@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elune.Sentry", "Elune.Sentry\Elune.Sentry.csproj", "{0CE28055-6AB9-462E-BFEE-8EEC6E662B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE28055-6AB9-462E-BFEE-8EEC6E662B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE28055-6AB9-462E-BFEE-8EEC6E662B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE28055-6AB9-462E-BFEE-8EEC6E662B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE28055-6AB9-462E-BFEE-8EEC6E662B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E854137C-3F29-459F-8256-3DFF38EF9768}
+	EndGlobalSection
+EndGlobal
